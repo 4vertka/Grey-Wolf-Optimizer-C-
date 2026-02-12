@@ -264,11 +264,11 @@ double f1(std::vector<double> &x) { return 0.0; }
 
 int main() {
 
-  bool rastringFunction = false;
+  bool rastringFunction = true;
   bool hyperbolicFunction = false;
   bool exponentialFunction = false;
   bool izomaFunc = false;
-  bool ackleyFunction = true;
+  bool ackleyFunction = false;
   bool crossInTray = false;
   bool eggholderFunction = false;
   bool holderTableFunction = false;
