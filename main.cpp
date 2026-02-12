@@ -267,8 +267,8 @@ int main() {
   bool rastringFunction = false;
   bool hyperbolicFunction = false;
   bool exponentialFunction = false;
-  bool izomaFunc = true;
-  bool ackleyFunction = false;
+  bool izomaFunc = false;
+  bool ackleyFunction = true;
   bool crossInTray = false;
   bool eggholderFunction = false;
   bool holderTableFunction = false;
@@ -417,7 +417,7 @@ int main() {
     s->y_data(y_coords);
 
     fig->draw();
-    std::this_thread::sleep_for(std::chrono::milliseconds(900));
+    std::this_thread::sleep_for(std::chrono::milliseconds(500));
   }
 
   matplot::show();
