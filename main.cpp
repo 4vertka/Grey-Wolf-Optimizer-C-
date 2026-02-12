@@ -264,8 +264,8 @@ double f1(std::vector<double> &x) { return 0.0; }
 
 int main() {
 
-  bool rastringFunction = true;
-  bool hyperbolicFunction = false;
+  bool rastringFunction = false;
+  bool hyperbolicFunction = true;
   bool exponentialFunction = false;
   bool izomaFunc = false;
   bool ackleyFunction = false;
@@ -417,7 +417,7 @@ int main() {
     s->y_data(y_coords);
 
     fig->draw();
-    std::this_thread::sleep_for(std::chrono::milliseconds(500));
+    std::this_thread::sleep_for(std::chrono::milliseconds(900));
   }
 
   matplot::show();

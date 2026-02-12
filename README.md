@@ -7,7 +7,13 @@ $$f(X) = An + \sum_{i=1}^{n} (x_i^2 - A \cos(2\pi x_i))$$
 <p align="center">
   <img src="assets/rastring.gif" width="600" title="Rastrigin Optimization">
 </p>
+
 2.Hyperbolic function
+$$I_i(x - c_i) = -\frac{1}{b_i \sum_{j=1}^{m} a_{ij} |x_j - c_{ij}|^{p_{ij}} + d_i}$$
+<p align="center">                                                                                        
+  <img src="assets/hyperbolic.gif" width="600" title="Rastrigin Optimization">                              
+</p>                                                                                                      
+
 3.Exponential function
 4.Izoma function
 5.Ackley function
