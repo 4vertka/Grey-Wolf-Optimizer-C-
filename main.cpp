@@ -265,8 +265,8 @@ double f1(std::vector<double> &x) { return 0.0; }
 int main() {
 
   bool rastringFunction = false;
-  bool hyperbolicFunction = true;
-  bool exponentialFunction = false;
+  bool hyperbolicFunction = false;
+  bool exponentialFunction = true;
   bool izomaFunc = false;
   bool ackleyFunction = false;
   bool crossInTray = false;

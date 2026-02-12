@@ -15,6 +15,11 @@ $$I_i(x - c_i) = -\frac{1}{b_i \sum_{j=1}^{m} a_{ij} |x_j - c_{ij}|^{p_{ij}} + d
 </p>                                                                                                      
 
 3.Exponential function
+$$I_i(x - c_i) = -d_i e^{-b_i \sum_{j=1}^{m} a_{ij} |x_j - c_{ij}|^{p_{ij}}}$$
+<p align="center">                                                                              
+  <img src="./assets/exponentila.gif" width="600" title="Rastrigin Optimization">                  
+</p>                                                                                            
+
 4.Izoma function
 5.Ackley function
 6.Cross in tray function
