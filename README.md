@@ -3,6 +3,7 @@ Grey Wolf Optimizer algorithm written on c++. Supporting 3D fitness functions on
 
 ## Currenty implemented and tested fitness functions
 1.Rastring function
+$$f(X) = An + \sum_{i=1}^{n} (x_i^2 - A \cos(2\pi x_i))$$
 <p align="center">
   <img src="assets/rastring.gif" width="600" title="Rastrigin Optimization">
 </p>
