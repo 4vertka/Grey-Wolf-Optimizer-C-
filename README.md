@@ -30,7 +30,7 @@ $$f(x, y) = -\cos(x) \cos(y) e^{-(x-\pi)^2 - (y-\pi)^2}$$
 5.Ackley function
 $$f(x, y) = -20 e^{-0.2 \sqrt{0.5(x^2 + y^2)}} - e^{0.5(\cos 2\pi x + \cos 2\pi y)} + e + 20$$
 <p align="center">                                                                         
-  <img src="./assets/izoma.gif" width="600" title="Rastrigin Optimization">                
+  <img src="./assets/ackley.gif" width="600" title="Rastrigin Optimization">                
 </p>                                                                                       
 
 6.Cross in tray function
