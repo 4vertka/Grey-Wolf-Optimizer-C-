@@ -266,8 +266,8 @@ int main() {
 
   bool rastringFunction = false;
   bool hyperbolicFunction = false;
-  bool exponentialFunction = true;
-  bool izomaFunc = false;
+  bool exponentialFunction = false;
+  bool izomaFunc = true;
   bool ackleyFunction = false;
   bool crossInTray = false;
   bool eggholderFunction = false;

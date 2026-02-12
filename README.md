@@ -21,6 +21,12 @@ $$I_i(x - c_i) = -d_i e^{-b_i \sum_{j=1}^{m} a_{ij} |x_j - c_{ij}|^{p_{ij}}}$$
 </p>                                                                                            
 
 4.Izoma function
+$$f(x, y) = -\cos(x) \cos(y) e^{-(x-\pi)^2 - (y-\pi)^2}$$
+<p align="center">                                                                                             
+  <img src="./assets/izoma.gif" width="600" title="Rastrigin Optimization">                              
+</p>                                                                                                           
+
+
 5.Ackley function
 6.Cross in tray function
 7.Eggholder function 
