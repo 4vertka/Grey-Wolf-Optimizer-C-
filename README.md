@@ -34,6 +34,12 @@ $$f(x, y) = -20 e^{-0.2 \sqrt{0.5(x^2 + y^2)}} - e^{0.5(\cos 2\pi x + \cos 2\pi 
 </p>                                                                                       
 
 6.Cross in tray function
+$$f(x, y) = -0.0001 \left( \left| \sin x \sin y e^{\left| 100 - \frac{\sqrt{x^2 + y^2}}{\pi} \right|} \right| + 1 \right)^{0.1}$$
+<p align="center">                                                                       
+  <img src="./assets/crossInTray.gif" width="600" title="Rastrigin Optimization">             
+</p>                                                                                     
+
+
 7.Eggholder function 
 8.HolderTable function
 9.Schaffer1 function

@@ -268,8 +268,8 @@ int main() {
   bool hyperbolicFunction = false;
   bool exponentialFunction = false;
   bool izomaFunc = false;
-  bool ackleyFunction = true;
-  bool crossInTray = false;
+  bool ackleyFunction = false;
+  bool crossInTray = true;
   bool eggholderFunction = false;
   bool holderTableFunction = false;
   bool schaffer1Function = false;
