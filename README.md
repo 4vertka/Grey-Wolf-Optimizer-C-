@@ -47,11 +47,13 @@ $$f(x, y) = -(y + 47) \sin \sqrt{\left| \frac{x}{2} + y + 47 \right|} - x \sin \
 </p>                                                                                           
 
 
-
-
-
-
 8.HolderTable function
+$$f(x, y) = - \left| \sin x \cos y e^{\left| 1 - \frac{\sqrt{x^2 + y^2}}{\pi} \right|} \right|$$
+<p align="center">                                                                       
+  <img src="./assets/holderTable.gif" width="600" title="Rastrigin Optimization">          
+</p>      
+
+
 9.Schaffer1 function
 10.Schaffer2 function
 

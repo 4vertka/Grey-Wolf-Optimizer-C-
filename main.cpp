@@ -270,8 +270,8 @@ int main() {
   bool izomaFunc = false;
   bool ackleyFunction = false;
   bool crossInTray = false;
-  bool eggholderFunction = true;
-  bool holderTableFunction = false;
+  bool eggholderFunction = false;
+  bool holderTableFunction = true;
   bool schaffer1Function = false;
   bool schaffer2Function = false;
 
