@@ -271,8 +271,8 @@ int main() {
   bool ackleyFunction = false;
   bool crossInTray = false;
   bool eggholderFunction = false;
-  bool holderTableFunction = true;
-  bool schaffer1Function = false;
+  bool holderTableFunction = false;
+  bool schaffer1Function = true;
   bool schaffer2Function = false;
 
   GWOResult result;

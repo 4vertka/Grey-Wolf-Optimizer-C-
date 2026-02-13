@@ -1,5 +1,5 @@
 # Grey Wolf Optimizer (C++)
-Grey Wolf Optimizer algorithm written on c++. Supporting 3D fitness functions on 2d graph.
+Grey Wolf Optimizer algorithm written in c++. Supporting 3D fitness functions on 2d graph.
 
 ## Currenty implemented and tested fitness functions
 1.Rastring function
@@ -55,5 +55,12 @@ $$f(x, y) = - \left| \sin x \cos y e^{\left| 1 - \frac{\sqrt{x^2 + y^2}}{\pi} \r
 
 
 9.Schaffer1 function
+$$f(x, y) = \frac{1}{2} + \frac{\sin^2(x^2 - y^2) - \frac{1}{2}}{(1 + 0.001(x^2 + y^2))^2}$$
+<p align="center">                                                                                 
+  <img src="./assets/scaffer1.gif" width="600" title="Rastrigin Optimization">                  
+</p>                                                                                               
+
+
 10.Schaffer2 function
+$$f(x, y) = \frac{1}{2} + \frac{\cos^2(\sin|x^2 - y^2|) - \frac{1}{2}}{(1 + 0.001(x^2 + y^2))^2}$$
 
