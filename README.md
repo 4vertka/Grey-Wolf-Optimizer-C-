@@ -41,6 +41,16 @@ $$f(x, y) = -0.0001 \left( \left| \sin x \sin y e^{\left| 100 - \frac{\sqrt{x^2 
 
 
 7.Eggholder function 
+$$f(x, y) = -(y + 47) \sin \sqrt{\left| \frac{x}{2} + y + 47 \right|} - x \sin \sqrt{|x - (y + 47)|}$$
+<p align="center">                                                                             
+  <img src="./assets/eggholder.gif" width="600" title="Rastrigin Optimization">              
+</p>                                                                                           
+
+
+
+
+
+
 8.HolderTable function
 9.Schaffer1 function
 10.Schaffer2 function
