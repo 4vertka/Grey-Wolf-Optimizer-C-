@@ -272,8 +272,8 @@ int main() {
   bool crossInTray = false;
   bool eggholderFunction = false;
   bool holderTableFunction = false;
-  bool schaffer1Function = true;
-  bool schaffer2Function = false;
+  bool schaffer1Function = false;
+  bool schaffer2Function = true;
 
   GWOResult result;
   double lb, ub;

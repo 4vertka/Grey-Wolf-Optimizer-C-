@@ -63,4 +63,8 @@ $$f(x, y) = \frac{1}{2} + \frac{\sin^2(x^2 - y^2) - \frac{1}{2}}{(1 + 0.001(x^2 
 
 10.Schaffer2 function
 $$f(x, y) = \frac{1}{2} + \frac{\cos^2(\sin|x^2 - y^2|) - \frac{1}{2}}{(1 + 0.001(x^2 + y^2))^2}$$
+<p align="center">                                                                           
+  <img src="./assets/scaffer2.gif" width="600" title="Rastrigin Optimization">               
+</p>                                                                                         
+
 
